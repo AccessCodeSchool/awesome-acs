@@ -16,6 +16,7 @@
 ## News
 
 - [Hacker News](https://news.ycombinator.com/) - A social news website focusing on computer science and entrepreneurship.
+- [Numerama](https://www.numerama.com/) - A French language news website that focuses on economic, legal, social, and technological issues.
 
 ## Usefull links
 
