@@ -11,6 +11,7 @@
 
 - [Grafikart](https://www.grafikart.fr/) - Frontend and backend tutorials in french.
 - [Scoth.io](https://scotch.io/) - Frontend and backend tutorials in english.
+- [Tutorialzine](https://tutorialzine.com/) - Frontend and backend tutorials in english.
 
 
 ## Usefull links
