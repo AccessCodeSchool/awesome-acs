@@ -13,6 +13,9 @@
 - [Scoth.io](https://scotch.io/) - Frontend and backend tutorials in english.
 - [Tutorialzine](https://tutorialzine.com/) - Frontend and backend tutorials in english.
 
+## News
+
+- [Hacker News](https://news.ycombinator.com/) - A social news website focusing on computer science and entrepreneurship.
 
 ## Usefull links
 
