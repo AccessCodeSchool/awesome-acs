@@ -18,3 +18,5 @@ duplicate.
 (Requires attribution) note next to the link.
 * New categories or improvements to the existing categorization are welcome.
 * Thank you for your suggestions!
+
+Here a pull request example : https://github.com/AccessCodeSchool/awesome-acs/pull/1
