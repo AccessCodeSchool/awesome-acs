@@ -30,6 +30,7 @@
 
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A collection of cool hidden and not so hidden features of Git and GitHub.
+- [awesome-extensions] (https://github.com/accesscodeschool/awesome-acs/VSC_EXTENSIONS.md) - A list of Visual Studio Code useful extensions
 
 ## License
 
