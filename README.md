@@ -6,6 +6,7 @@
 ## Exercies
 
 - [Codecademy](https://www.codecademy.com/) - Online interactive platform that offers free coding classes in 12 different programming languages.
+- [FreeCodeCamp](https://www.freecodecamp.org) - Learning platform in english wich provide many exercises, projects and certifications.
 
 ## Tutorials
 
