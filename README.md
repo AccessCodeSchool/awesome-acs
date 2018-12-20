@@ -24,6 +24,24 @@
 
 - [Alan Drabczynski](http://alan-drabczynski.fr/) - Alan is an artistic director, he write and give advice about graphic and web design.
 
+
+## Useful extentions
+
+## VSCode
+
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML.
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Spot missing brackets!
+- [Indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) & [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator) - Show indentation mistakes. 
+- [File tree view](https://marketplace.visualstudio.com/items?itemName=DaGhostman.vs-treeview) - See your functions architecture.
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Help you with git
+- [Camel Case Navigation](https://marketplace.visualstudio.com/items?itemName=maptz.camelcasenavigation) - Provides camel-case navigation
+- [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - Advanced PHP IntelliSense.
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects.
+- [French Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr) - Provides localized UI experience.
+- [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - File-specific icons.
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Manage [.editorconfig](https://editorconfig.org/) and share the same configuration with your colleagues
+- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - Debug adapter working with [Xdebug](https://xdebug.org/) to have a live execution of your code.
+
 ## Usefull links
 
 ### Other awesome 'awesome' list
