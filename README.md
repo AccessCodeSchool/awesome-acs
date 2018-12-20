@@ -25,7 +25,7 @@
 - [Alan Drabczynski](http://alan-drabczynski.fr/) - Alan is an artistic director, he write and give advice about graphic and web design.
 
 
-## Useful extentions
+## Useful extensions
 
 ### VSCode
 
