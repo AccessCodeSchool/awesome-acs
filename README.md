@@ -42,7 +42,7 @@
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Manage [.editorconfig](https://editorconfig.org/) and share the same configuration with your colleagues
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - Debug adapter working with [Xdebug](https://xdebug.org/) to have a live execution of your code.
 
-## Usefull links
+## Useful links
 
 ### Other awesome 'awesome' list
 
