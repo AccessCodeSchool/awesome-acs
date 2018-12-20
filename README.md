@@ -27,7 +27,7 @@
 
 ## Useful extentions
 
-## VSCode
+### VSCode
 
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML.
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Spot missing brackets!
