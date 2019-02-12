@@ -48,12 +48,12 @@
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) - Debug adapter working with [Xdebug](https://xdebug.org/) to have a live execution of your code.
 
 ### PhpStorm
-- [bashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport) - Bash supports run configurations, syntax highlighting, rename refactoring, documentation lookup, inspections, quickfixes and much more..
-- [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting..
+- [bashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport) - Bash supports run configurations, syntax highlighting, rename refactoring, documentation lookup, inspections, quickfixes and much more.
+- [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting.
 - [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - A JetBrains IDE plugin supporting the EditorConfig standard and EditorConfig language.
-- [PHP Anotations](https://plugins.jetbrains.com/plugin/7320-php-annotations) - is used to understand annoations like in symfony for routes
-- [composer.json support](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support) - is used to manager version in your composer files and provide an autocompletion in your package name
-- [Symfony Plugin](https://plugins.jetbrains.com/plugin/7219-symfony-plugin) - provide autocompletnio for routes, symfony methods, services of yml file, config in yml files, parameters, ...
+- [PHP Anotations](https://plugins.jetbrains.com/plugin/7320-php-annotations) - Useful to understand annoations like in symfony for routes.
+- [composer.json support](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support) - Useful to manager version in your composer files and provide an autocompletion in your package name.
+- [Symfony Plugin](https://plugins.jetbrains.com/plugin/7219-symfony-plugin) - Provide autocompletion for routes, symfony methods, services of yml file, config in yml files, parameters, and more!
 
 
 ## Useful links
