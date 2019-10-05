@@ -29,6 +29,7 @@
 ### Design 
 
 - [Alan Drabczynski](http://alan-drabczynski.fr/) - Alan is an artistic director, he write and give advice about graphic and web design.
+- [Webdesign trends](http://www.webdesignertrends.com/] - A website that publish article based on UI and UX
 
 
 ## Useful extensions
