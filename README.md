@@ -18,6 +18,7 @@
 
 - [Hacker News](https://news.ycombinator.com/) - A social news website focusing on computer science and entrepreneurship.
 - [Numerama](https://www.numerama.com/) - A French language news website that focuses on economic, legal, social, and technological issues.
+- [Codrops](https://tympanus.net/codrops/) - A website that give some frontend usefull components
 
 ## Blogs
 
@@ -28,6 +29,7 @@
 ### Design 
 
 - [Alan Drabczynski](http://alan-drabczynski.fr/) - Alan is an artistic director, he write and give advice about graphic and web design.
+- [Webdesign trends](http://www.webdesignertrends.com/] - A website that publish article based on UI and UX
 
 
 ## Useful extensions
