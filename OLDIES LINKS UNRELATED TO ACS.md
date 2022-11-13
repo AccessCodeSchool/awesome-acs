@@ -26,6 +26,8 @@ http://www.standard-du-web.com/liste_des_codes_http.php
 
 http://www.iana.org/assignments/media-types/application/index.html
 
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
 ---
 
 ## PHP
@@ -34,9 +36,9 @@ http://pear.php.net
 
 http://pecl.php.net
 
-http://fr.php.net/manual/fr/ini.core.php
+https://packagist.org/
 
-http://files-source.zend.com/help/Zend-Server-Community-Edition/zend-server-community-edition.htm
+http://fr.php.net/manual/fr/ini.core.php
 
 ---
 
