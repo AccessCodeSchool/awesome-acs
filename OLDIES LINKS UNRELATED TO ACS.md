@@ -2,9 +2,7 @@
 
 http://www.git-attitude.fr/
 
-http://blog.mmkmou.net/
-
-http://www.croes.org/gerald/blog/git-modele-de-branche-efficace/649/
+http://www.croes.org/
 
 http://gitref.org
 
