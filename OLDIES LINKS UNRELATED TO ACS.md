@@ -10,7 +10,9 @@ http://gitref.org
 
 ## LINUX
 
-http://scripts.trustonme.net/index.php
+http://trustonme.net/
+
+http://malekal.com
 
 ---
 
