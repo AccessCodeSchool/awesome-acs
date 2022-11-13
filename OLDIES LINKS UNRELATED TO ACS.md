@@ -22,7 +22,7 @@ http://www.w3.org
 
 http://www.rfc-editor.org/
 
-http://www.codeshttp.com/
+http://www.standard-du-web.com/liste_des_codes_http.php
 
 http://www.iana.org/assignments/media-types/application/index.html
 
