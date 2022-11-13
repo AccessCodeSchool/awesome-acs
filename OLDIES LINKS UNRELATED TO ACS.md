@@ -1,7 +1,5 @@
 ## GIT
 
-http://progit.org/book/fr
-
 http://gitlabhq.com/
 
 http://www.git-attitude.fr/2010/07/18/heberger-un-serveur-git-avec-gitosis-linux-osx/
