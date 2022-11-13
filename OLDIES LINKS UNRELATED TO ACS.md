@@ -48,8 +48,6 @@ http://phing.info
 
 http://jenkins-ci.org/
 
-http://jenkins-php.org/
-
 ---
 
 ## Stats & technos 
