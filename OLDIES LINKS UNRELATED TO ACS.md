@@ -1,8 +1,6 @@
 ## GIT
 
-http://gitlabhq.com/
-
-http://www.git-attitude.fr/2010/07/18/heberger-un-serveur-git-avec-gitosis-linux-osx/
+http://www.git-attitude.fr/
 
 http://blog.mmkmou.net/index.php?post/2011/03/26/Github%3A-Cr%C3%A9er-un-d%C3%A9p%C3%B4t
 
