@@ -52,8 +52,6 @@ http://jenkins-ci.org/
 
 ## Stats & technos 
 
-http://www.woozweb.com
-
 http://w3techs.com/
 
 http://www.journaldunet.com/chiffres-cles.shtml
