@@ -2,7 +2,7 @@
 
 http://www.git-attitude.fr/
 
-http://blog.mmkmou.net/index.php?post/2011/03/26/Github%3A-Cr%C3%A9er-un-d%C3%A9p%C3%B4t
+http://blog.mmkmou.net/
 
 http://www.croes.org/gerald/blog/git-modele-de-branche-efficace/649/
 
